@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Hamilos
-    given-names: Allison
+    given-names: Allison E.
     orcid: https://orcid.org/0000-0001-9486-0017
 title: "Original customized analysis software for Hamilos et al., eLife, 2021."
 version: 1.0.0
